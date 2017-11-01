@@ -11,9 +11,9 @@ You can find the frontend code for this project at [getneon/neon-frontend](https
 2. Make sure you have the proper database created
 
 3. If you need to access the mysql terminal, do so with `mysql -u root -p`
-  * This will prompt you for a password
-  * Run `create database neon-dev`
-  * Then run `use neon-dev`
+   * This will prompt you for a password
+   * Run `create database neon-dev`
+   * Then run `use neon-dev`
 
 ### Running the app
 
